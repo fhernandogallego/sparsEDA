@@ -1,2 +1,2 @@
 # sparsEDA
-This method provide jointly the low component and the driver response of a galvanic skin response signal.
+Authors, F. Hernando-Gallego, D. Luengo-Garcia and A. Artes-Rodriguez. Dpt. of Signal Theory and Communications. Universidad Carlos III de Madrid. Abstract: This repository provide a method to decompose a galvanic skin response in two parts: low component and phasic component. The algorithm use a simultaneous estimation of both part to be faster computing. It also incorporates a non-negative sparse LASSO model to discriminate Autonomous Nervous System response from plasic component instate other factors such as temperature changes or sweating due to aerobic exercise. An example is attachment on this repository just to run in MATLAB 2016b.
