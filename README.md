@@ -44,13 +44,13 @@ The SparseEDA algorithm has been validated using a dataset of 100 GSR signals fr
 
 #### Example of Signal Decomposition
 
-![Signal Decomposition](https://yourdomain.com/path-to-your-image)
+![Signal Decomposition](https://github.com/fhernandogallego/sparsEDA/blob/master/herna2-2780252-large.gif)
 
 *Figure 1: Decomposition of a GSR signal using SparseEDA. The top graph shows the original GSR signal (blue) and the estimated SCL component (red). The bottom graph displays the sparse driver (black) and the corresponding SCR waveform (green).*
 
 #### Performance Comparison
 
-![Performance Comparison](https://yourdomain.com/path-to-your-image)
+![Performance Comparison](https://github.com/fhernandogallego/sparsEDA/blob/master/herna3-2780252-large.gif)
 
 *Figure 2: Comparison of SparseEDA with other methods (CDA Ledalab and cvxEDA). SparseEDA provides a more interpretable and sparse decomposition.*
 
